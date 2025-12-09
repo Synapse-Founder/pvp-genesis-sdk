@@ -1,0 +1,30 @@
+{
+  "name": "pvp-genesis-sdk",
+  "version": "1.2.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pvp",
+    "depin",
+    "energy",
+    "blockchain",
+    "polygon",
+    "ai"
+  ],
+  "author": "PVP Genesis Team",
+  "homepage": "https://github.com/Synapse-Founder/pvp-genesis-sdk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synapse-Founder/pvp-genesis-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Synapse-Founder/pvp-genesis-sdk/issues"
+  },
+  "license": "MIT",
+  "description": "Official SDK for PVP Genesis - The Physical Value Protocol on Polygon",
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}
